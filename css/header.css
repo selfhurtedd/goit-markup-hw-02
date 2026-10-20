@@ -3,20 +3,19 @@
   color: #4d5ae5;
 }
 .post-logo-header {
-  color: inherit;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.03em;
   color: #2e2f42;
   font-size: 18px;
+  line-height: 1.33333;
 }
 .post-nav a {
   font-weight: 500;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
-  color: inherit;
 }
 .post-nav a:hover {
   color: #404bbf;
@@ -28,7 +27,7 @@
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
-  color: inherit;
+  font-style: normal;
 }
 .post-address a:hover {
   color: #404bbf;
