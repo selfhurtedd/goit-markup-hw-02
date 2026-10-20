@@ -17,9 +17,10 @@
 .post-team p {
   text-align: center;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .post-team {
-  color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .team-cards li {
   background-color: #fff;
