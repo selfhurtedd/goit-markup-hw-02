@@ -1,7 +1,7 @@
 .post-hero {
   background: #2e2f42;
 }
-.post-hero h1 {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
@@ -9,16 +9,16 @@
   text-align: center;
   color: #fff;
 }
-.post-hero button {
+.hero-button {
   font-weight: 500;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.post-hero button:hover {
+.hero-button:hover {
   background-color: #404bbf;
 }
-.post-hero button:focus {
+.hero-button:focus {
   background-color: #404bbf;
 }

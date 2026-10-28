@@ -1,4 +1,4 @@
-.post-portfolio h2 {
+.portfolio-title-2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
@@ -6,13 +6,13 @@
   text-align: center;
   color: #2e2f42;
 }
-.post-portfolio h3 {
+.portfolio-title-3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.post-portfolio p {
+.portfolio-text {
   letter-spacing: 0.02em;
 }
